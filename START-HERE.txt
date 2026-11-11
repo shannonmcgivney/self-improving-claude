@@ -5,7 +5,7 @@ They read files on your own computer, so they do NOT work as Claude.ai skill upl
 
 Install:
   Copy everything in the "skills" folder into ~/.claude/skills/
-  (On a Mac: in Finder press Cmd+Shift+G, type ~/.claude/skills, and drag the 3 folders in.)
+  (On a Mac: in Finder press Cmd+Shift+G, type ~/.claude/skills, and drag the 2 folders in.)
 
 Then, in Claude Code, say:
   "Improve system"
