@@ -1,0 +1,14 @@
+SELF-IMPROVING CLAUDE: START HERE
+
+These skills are for Claude Code (the terminal app or the Claude desktop app's Code tab).
+They read files on your own computer, so they do NOT work as Claude.ai skill uploads.
+
+Install:
+  Copy everything in the "skills" folder into ~/.claude/skills/
+  (On a Mac: in Finder press Cmd+Shift+G, type ~/.claude/skills, and drag the 3 folders in.)
+
+Then, in Claude Code, say:
+  "Improve system"
+Claude reads your saved sessions and shows you a report. Pick what you want built.
+
+Full instructions are in README.md.

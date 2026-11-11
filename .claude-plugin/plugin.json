@@ -1,0 +1,10 @@
+{
+  "name": "self-improving-claude",
+  "version": "1.0.0",
+  "description": "Claude Code gets better the more you use it: read your whole session history for repeated corrections, context you keep retyping and jobs you do by hand, then build the missing skills; plus a per-job retro and a reel-to-skills workflow.",
+  "author": {
+    "name": "McGivney Media",
+    "email": "shannon@mcgivneymedia.com"
+  },
+  "keywords": ["claude-code", "skills", "self-improvement", "retro", "automation", "students"]
+}
